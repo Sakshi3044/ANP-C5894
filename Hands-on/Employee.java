@@ -1,3 +1,5 @@
+// Example of Encapsulation
+
 package oops;
 
 //printing Employee Details

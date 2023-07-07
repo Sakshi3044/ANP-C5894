@@ -1,3 +1,5 @@
+// Example of Multilevel inheritance
+
 package oops;
 
 public class Person1 

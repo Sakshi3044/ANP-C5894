@@ -1,10 +1,5 @@
 
-/* Example of Multilevel inheritance -
-  Create a class called Vehicle with attributes brand and year. 
-  Implement a method displayInfo() in the Vehicle class that prints the brand and year of the vehicle. 
-  Create a child class Car that inherits from Vehicle and adds an attribute model. 
-  Create another child class SportsCar that inherits from Car and adds an attribute topSpeed. 
-  Override the displayInfo() method in the SportsCar class to display the brand, model, year, and top speed of the sports car */
+// Example of Multilevel inheritance 
 
 package oops;
 class Vehicle 

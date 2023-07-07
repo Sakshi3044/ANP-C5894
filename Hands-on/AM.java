@@ -1,3 +1,5 @@
+// Example of single inheritance
+
 package oops;
 
 public class AM 

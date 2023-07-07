@@ -1,8 +1,5 @@
 
-/* Example of single level inheritance -
- Create a class called Shape with a method calculateArea() that prints "Calculating area of the shape." 
- Create a child class Rectangle that inherits from Shape and overrides the calculateArea() method 
- to calculate and print the area of a rectangle. */
+// Example of single level inheritance 
 
 package oops;
 
